@@ -1,0 +1,14 @@
+{
+  "series": "Request for Comments",
+  "number": "112",
+  "howpublished": "RFC 112",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0112",
+  "url": "https://www.rfc-editor.org/info/rfc112",
+  "title": "User/Server Site Protocol: Network Host Questionnaire",
+  "pagetotal": "1",
+  "year": "1971",
+  "month": "apr",
+  "day": "1",
+  "body": "\n\n\n\n\n\nNetwork Working Group                                      T. O'Sullivan\nRequest for Comments: 112                  Raytheon Data Systems Company\nNIC: 5816                                                  April 1, 1971\n\n          User/Server Site Protocol Network HOST Questionnaire\n                  (Reference RFC #106, NIC Note 5776)\n\n   Attached is a summary of the responses to the referenced\n   questionnaires.\n\n   The questions involving terminal support were of interest to members\n   of the User/Service Site Protocol Committee in its considerations of\n   TELNET.\n\n   The summary points out some of the key differences between line-at-\n   a-time and character-at-a-time (or both) in handling terminal\n   support, especially with respect to control characters.  The\n   information may prove useful as background information to TELNET\n   implementers.\n\n   If errors of interpretation of any sites' answer have occurred,\n   please advise me at the following address so that I may update the\n   chart.\n\n                                         Tom O'Sullivan\n                                         Raytheon Data Systems\n                                         1415 Boston-Providence Turnpike\n                                         Norwood, Massachusetts 02062\n\n   [chart: ARPA Network User Terminal Support.  Please view the PDF\n   version of this RFC.]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nO'Sullivan                                                      [Page 1]\n\f\n"
+}

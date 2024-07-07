@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "270",
+  "howpublished": "RFC 270",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0270",
+  "url": "https://www.rfc-editor.org/info/rfc270",
+  "title": "Correction to BBN Report No. 1822 (NIC NO 7958)",
+  "pagetotal": "1",
+  "year": "1972",
+  "month": "jan",
+  "body": "\n\n\n\n\n\nNetwork Working Group                                        A. McKenzie\nRequest for Comments: 270                                            BBN\nNIC: 7818                                                January 1, 1972\n\n\n                    CORRECTION TO BBN REPORT NO. 1822\n\n\n   In the process of generating RFC #271 we have discovered a set of\n   errors in BBN Report No. 1822 (NIC 7958).  The attached page is a\n   corrected version of page 25; in addition the first two lines should\n   be deleted from page 26.  The paragraph at the top of page 25 is\n   changed to show that the Host is NOT marked dead under the stated\n   conditions, and to show that the timeout period is 30 (rather than\n   40) seconds.  In the footnote, the two changes are underlined; these\n   changes also show the timeout period as 30 seconds.  A more formal\n   update to Report 1822 will be distributed eventually.\n\n   Please note that these changes reflect errors in previous versions of\n   Report 1822, _not_ changes to the IMP system.  The timeout period has\n   ALWAYS been 30 seconds and the Host was NEVER marked dead under these\n   conditions.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n          [This RFC was put into machine readable form for entry]\n      [into the online RFC archives by Kelly Tardif, Viag\ufffdnie 10/99]\n\n\n\n\n\n\n\n\n\n\n\nMcKenzie                                                        [Page 1]\n\f\n"
+}

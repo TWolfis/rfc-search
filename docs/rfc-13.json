@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "13",
+  "howpublished": "RFC 13",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0013",
+  "url": "https://www.rfc-editor.org/info/rfc13",
+  "title": "Zero Text Length EOF Message",
+  "pagetotal": "1",
+  "year": "1969",
+  "month": "aug",
+  "body": "\n\n\n\n\n\nNetwork Working Group                                          Vint Cerf\nRequest for Comments: 13                                       UCLA\n                                                          20 August 1969\n\n\n\n\nReferring to NWG/RFC: 11, it appears that file transmissions over\nauxiliary connections will require some mechanism to specify \"END-OF-\nFILE.\"  It is proposed that a length 0 (zero) message be used for this\npurpose.  Figure 1 shows the format:\n\n\n\n\n\n\n|\u003c---32 bits---\u003e|\u003c---32 bits---\u003e|\u003c----16 bits----\u003e|\u003c------?------\u003e|\n+---------------+---------------+-----------------+---------------+\n|    leader     |    marking    |    checksum     |    padding    |\n+---------------+---------------+-----------------+---------------+\n\n\n\n                                Figure 1\n\n                      Zero Text Length EOF Message\n\n\n\n\n       [ This RFC was put into machine readable form for entry ]\n      [ into the online RFC archives by Michael Brunnbauer 1/97 ]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                [Page 1]\n\f\n"
+}

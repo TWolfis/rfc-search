@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "179",
+  "howpublished": "RFC 179",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0179",
+  "url": "https://www.rfc-editor.org/info/rfc179",
+  "title": "Link Number Assignments",
+  "pagetotal": "1",
+  "year": "1971",
+  "month": "jun",
+  "body": "\n\n\n\n\n\nNetwork Working Group                        Alex McKenzie\nRequest for Comments No. 179                 BBN\nNIC No. 7119                                 22 June 1971\nCategory: C.9\nUpdates:  107\nObsoletes:  none\n\n\n                        LINK NUMBER ASSIGNMENTS\n\n     Today Steve Crocker asked me to announce that from now on link\nnumbers 2-71 (decimal), inclusive, are to be valid for use in\nconnections.  Accordingly, the Host-Host Protocol Document, which I am\ncurrently writing, will contain the following \"declarative\nspecification\".\n\n     Links are assigned as follows:\n\n     Link Number         Assignment\n\n     0                   Control link\n     2-71                Available for connections\n     1, 72-190           Reserved-not for current use\n     191                 To be used only for measurement\n                         work under the direction of the\n                         Network Measurement Center at UCLA\n     192-255             Available for private experimental use\n\n\n     [ This RFC was put into machine readable form for entry ]\n     [ into the online RFC archives by Kai Henningsen 5/97 ]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                [Page 1]\n\f\n"
+}

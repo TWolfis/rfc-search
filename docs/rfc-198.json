@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "198",
+  "howpublished": "RFC 198",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0198",
+  "url": "https://www.rfc-editor.org/info/rfc198",
+  "title": "Site Certification - Lincoln Labs 360/67",
+  "pagetotal": "1",
+  "year": "1971",
+  "month": "jul",
+  "body": "\n\n\n\n\n\nNetwork Working Group                               J. Heafner - Rand\nRequest for Comments #198                           20 July 1971\nNIC #7149\nCategories: D.4\nUpdates:  RFC #193\nObsoletes:  None\n\n\n\n                SITE CERTIFICATION - LINCOLN LABS 360/67\n\n\n\n        We have exercised Lincoln Labs Network software as follows: NCP,\nICP, ASCII Telnet (user and server), login procedure, access to CMS, and\noperator and console communication.  All  behave  according  to  current\nspecifications.\n\n        Multiple message responses, such as  listing  users,  were  very\nsmooth under moderate to heavy load of the /67.\n\n\n\n       [ This RFC was put into machine readable form for entry ]\n         [ into the online RFC archives by Josh Elliott 1/98 ]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                [Page 1]\n\f\n"
+}

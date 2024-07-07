@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "53",
+  "howpublished": "RFC 53",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0053",
+  "url": "https://www.rfc-editor.org/info/rfc53",
+  "title": "Official protocol mechanism",
+  "pagetotal": "1",
+  "year": "1970",
+  "month": "jun",
+  "body": "\n\n\n\n\n\nNetwork Working Group                                         S. Crocker\nRequest for Comments #53                                      UCLA\n                                                              9 June 70\n\n\n                     An Official Protocol Mechanism\n\n\nDuring the Spring Joint Computer Conference in Atlantic City, Larry\nRoberts, Barry Wessler, Cordell Green, Jon Postel and I discussed rules\nfor establishing and modifying an official Host-Host protocol.\n\nThe following decisions were made:\n\n      1.  A new set of documents will be created.  This set of\n          documents will specify the official Host-Host protocol.  When\n          it becomes appropriate, these documents will be maintained at\n          the Network Information Center on SRI's computer.\n\n      2.  I will distribute proposals for the initial version of the\n          official protocol and all subsequent changes as NWG/RFC's.\n          These proposals will be formulated from suggestions made by\n          any interested parties.\n\n      3.  After a proposal for a change in the official protocol\n          has been issued as an NWG/RFC, networkers are requested to\n          respond with approval, criticism, etc.  A cutoff date will be\n          included with each protocol.\n\n      4.  After the cutoff date, one of two situations will prevail.\n          Either the proposal will have been substantially accepted by\n          the network community, or substantial criticism will have been\n          generated.  In the latter case, the process stops and no\n          change occurs to the official protocol.\n\n      5.  If the proposal has been substantially accepted, the\n          proposal, together with its minor revisions will be forwarded\n          to the ARPA office.  Barry Wessler or his successor will then\n          either approve or disapprove the whole proposal.  His decision\n          will be returned to me by letter.\n\n      6.  After the ARPA office approves the proposal, I will send\n          out the new protocol (as mentioned in item 1 above).\n\nThe first version of an official protocol will be proferred this month.\n\n       [ This RFC was put into machine readable form for entry ]\n[ into the online RFC archives by Kathy de Graaf 2/98 ]\n\n\n\n                                                                [Page 1]\n\f\n"
+}

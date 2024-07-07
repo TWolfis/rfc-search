@@ -1,0 +1,14 @@
+{
+  "series": "Request for Comments",
+  "number": "116",
+  "howpublished": "RFC 116",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0116",
+  "url": "https://www.rfc-editor.org/info/rfc116",
+  "title": "Structure of the May NWG Meeting",
+  "pagetotal": "1",
+  "year": "1971",
+  "month": "apr",
+  "day": "1",
+  "body": "\n\n\n\n\n\nNetwork Working Group                                   S. Crocker\nRequest for Comments #116                               12 April 71\nNIC #5825                                               UCLA\nCategories: A.2\nObsoletes: None\nUpdates: 99\n\n                     STRUCTURE OF THE MAY NWG MTG.\n\nIn order to use our time in Atlantic City more effectively, I would\nlike to organize the meetings around discussions of advertised topics,\nwith published status reports and position papers.  I envision our\ntime being divided into three phases.\n\nPhase one is for status reports from each of the sites and for the\nintroductions of new sites or agencies.  Each existing site should\nplan to report on its state of software and hardware development, and\non its use of the network.  New sites will introduce themselves and\npresent their plans for attachment to and use of the network.  In\naddition, work on the ILLIAC IV, the List machine, and the terminal\nIMP will be reviewed.  I will assume that each site needs 5-10 minutes\nunless I am notified otherwise.  A short written status report is also\nexplected.\n\nPhase two is for discussion of current network-wide topics such as the\nNIC, the Form Machine Telnet, and Logger Protocol.  Suggestions for\nthese topics should be made to me.  Committees should plan to prepare\nthese reports and discuss their work.  Points of view not represented\nby existing committees should be explicated in position papers.\n\nPhase three is consideration of new topcs.  Som eof the topics I have\nin mind are what the long range goals of the NWG should be, what\noperational goals the NWG should set for the next six months, and\nneither the NWG should have more or less structure.  Suggestions for\nnew topics are particularly encouraged, and these are best opened up\nwith an introductory position paper.\n\nA major factor in the effiectiveness of this meeting will be the\nwritten material available before the meeting.  As far as possible,\nreports and position papers should be published in RFC form by 1 May 71.\n\nThe agenda will be composed from suggestions made to me; please call\nme at (213) 825-2368.  I will publish an agenda and schedule of\nmeetings about 1 May.\n\n       [ This RFC was put into machine readable form for entry ]\n         [ into the online RFC archives by Josh Elliott 1/98 ]\n\n\n\n\n                                                                [Page 1]\n\f\n"
+}

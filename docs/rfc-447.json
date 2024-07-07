@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "447",
+  "howpublished": "RFC 447",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0447",
+  "url": "https://www.rfc-editor.org/info/rfc447",
+  "title": "IMP/TIP memory retrofit schedule",
+  "pagetotal": "2",
+  "year": "1973",
+  "month": "jan",
+  "body": "\n\n\n\n\n\nNetwork Working Group                                   Alex A. McKenzie\nRFC # 447                                               BBN-NET\nNIC # 14104                                             January 29, 1973\nUpdates: 434\n\n\n             IMP/TIP Memory Retrofit Schedule (Revision 1)\n\n\nThis revision contains two major changes to RFC #434.  First, all\nretrofits scheduled prior to February first have been completed and are\ntherefore removed from the schedule.  Second, the CCA retrofit has been\nrescheduled from 3/20 to 2/28.\n\nThe revised text of RFC # 434 follows:\n\nDuring the first several month of 1973 we will be retrofitting each IMP\nand TIP with additional core memory.  At the end of the retrofit\nprogram, the memory sizes of the various machines will be as follows:\n\n   IMP (516 or 316) - 16K words\n\n   TIP - 28K words\n\n   TIP with Magnetic Tape Option - 32K words\n\nIn addition, the expansion of the TIP core memory will necessitate\nenlarging the TIP to two cabinets.\n\nListed below is the schedule for the remaining retrofits.  We have\narranged this schedule to coincide with usual monthly Preventive\nMaintenance at each site so as to minimize user inconvenience, but the\nwork required will frequently require the machines to be down longer\nthan normal.  I will issue additional RFC's updating this schedule as\nnecessary.\n\nAny site which anticipates difficulty with the expansion of TIP size,\nand thus the floor space requirement, should contact Hawley Rising (BBN)\nat\n   (617) 491-1850 ext. 473\nAll dates given below are in the form (month/day)\n\n   Utah (2/1)\n   UCSB (2/6)\n   Belvoir (2/8)\n   NOAA (2/12)\n   USC (2/13)\n   Stanford (2/14)\n\n\n\nMcKenzie                                                        [Page 1]\n\f\nRFC 447         IMP/TIP Memory Retrofit Schedule (Rev 1)    January 1973\n\n\n   ETAC (2/15)\n   Aberdeen (2/22)\n   ISI (2/22)\n   Case (2/26)\n   CCA (2/28)\n   SRI (3/7)\n   Rome (3/14)\n   FNWC (3/15)\n   UCLA (3/19)\n   AMES IMP  (3/21)\n   GWC (3/22)\n   Carnegie (4/4)\n   SDC (4/17)\n   Illinois (4/18)\n\n\n\n\n\n\n\n\n\n\n       [ This RFC was put into machine readable form for entry ]\n       [ into the online RFC archives by Alex McKenzie with    ]\n       [ support from GTE, formerly BBN Corp.             9/99 ]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMcKenzie                                                        [Page 2]\n\f\n"
+}

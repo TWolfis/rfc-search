@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "408",
+  "howpublished": "RFC 408",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0408",
+  "url": "https://www.rfc-editor.org/info/rfc408",
+  "title": "NETBANK",
+  "pagetotal": "1",
+  "year": "1972",
+  "month": "oct",
+  "body": "\n\n\n\n\n\nNWG/RFC 408                                        Buzz Owen (SAAC-TIP)\nNIC #12390                                         Jon Postel  (UCLA-NMC)\n                                                   25 October 1972\n\n                                NETBANK\n\nThe following idea for a protocol (or service) is offered as an\naid to network use for new users:\n\n   a single billing and account creation and validation system,\n   so that a manager of a \"goal oriented project\" could:\n\n      authorize a set of user's ids to gain access to and utilize\n      resources at the entire or a specified subset of the server\n      hosts.\n\n      create a set of accounts which the users will expend, and\n      which will be used as the breakdown for a single bill to be\n      presented to the project manager.\n\n   the idea is that the project manager would be required to go\n   through the initialization process of introducing himself,\n   verifying the existence of funding, etc. only once, and,\n\n   the idea would also encourage server hosts to implement\n   systems for which usage might be projected to start at low\n   levels and grow, by allowing funded hacking by project members\n   in a controlled manner.\n\n   this would require an option at login for the prospective user\n   to indicate the server should check the \"netbank\" facility at\n   the system currently hosting it.\n\n\n\n    [ This RFC was put into machine readable form for entry ]\n    [ into the online RFC archives by BBN Corp. under the   ]\n    [ direction of Alex McKenzie.                      1/97 ]\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                [Page 1]\n\f\n"
+}

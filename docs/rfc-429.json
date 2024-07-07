@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "429",
+  "howpublished": "RFC 429",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0429",
+  "url": "https://www.rfc-editor.org/info/rfc429",
+  "title": "Character Generator Process",
+  "pagetotal": "1",
+  "year": "1972",
+  "month": "dec",
+  "body": "\n\n\n\n\n\nARPA Network Information Center\nStanford Research Institute\nMenlo Park, California  94025\n\nNWG/RFC #429                                 Jonathan B. Postel (UCLA-NMC)\nNIC #13281                                   12-DEC-72\n\n\n\n                      Character Generator Process\n\n\n\nI hereby propose that there be a standard process implemented on\nwhatever hosts desire which generates character data with out any\nregard to input. In some sense the process is the converse of the\ndiscard process [RFC 348]. Many hosts have an existing terminal\ntesting program [e.g. TTYTST] which would suit this function\nadequately.\n\nThis Character Generator process would listen for a request for\nconnection and execute the Initial Connection Protocol (ICP) as\nspecified in NIC 7104 the \"Current Network Protocols\" notebook.  Upon\ncompletion of the ICP the Character Generator process would begin to\nsend characters into the network as buffer space is made available .\nThe Character Generator process is terminated by closing the\nconnections.\n\n\n\n\n\n\n\n\n       [ This RFC was put into machine readable form for entry ]\n       [ into the online RFC archives by BBN Corp. under the   ]\n       [ direction of Alex McKenzie.                      1/97 ]\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                [Page 1]\n\f\n"
+}

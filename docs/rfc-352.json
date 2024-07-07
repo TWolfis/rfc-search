@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "352",
+  "howpublished": "RFC 352",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0352",
+  "url": "https://www.rfc-editor.org/info/rfc352",
+  "title": "TIP Site Information Form",
+  "pagetotal": "3",
+  "year": "1972",
+  "month": "jun",
+  "body": "\n\n\n\n\n\nNWG/RFC #352                                      David H. Crocker\nNIC 10594                                         UCLA\n                                                  5 June 1972\n\n                       TIP SITE INFORMATION FORM\n\n\n\n(tips) Information form about ARPANET TIPS:\n\n\n   We are attempting to provide additional information for TIP\n   users of the NET.  The availability of such information should\n   allow more flexibility to TIP users and thereby make NET use\n   easier.\n\n   Please complete the form and return it as soon as possible,\n   preferably as a NIC Journal entry (making it easier for us to\n   manipulate the information) to Dave Crocker (Nic ident: DHC).\n   Mailing address:\n\n      David Crocker\n      c/o Jon Postel\n      Computer Science Department\n      School of Engineering and Applied Science\n      3804 Boelter Hall\n      University of California\n      Los Angeles, California 90024\n\n\n\n\n\n\n\n\n\n    [ This RFC was put into machine readable form for entry ]\n    [ into the online RFC archives by BBN Corp. under the   ]\n    [ direction of Alex McKenzie.                      1/97 ]\n\n\n\n\n\n\n\n\n\n\n\n                                                                [Page 1]\n\f\nNWG/RFC# 352                            DHC 5-JUN-72 16:11  10594\nTIP site information form\n\n   Name of organization \u0026 pseudo-host number:\n\n\n   Regular Host computer(s) associated with the same\n   organization:\n\n\n   Mailing address of organization:\n\n\n   Local person responsible for TIP operations:\n\n      Name:\n\n\n      Telephone:\n\n\n      Alternate person(s):\n\n\n   Operator (if any)\n\n      Name(s):\n\n\n      Hours of operator coverage:\n\n\n      Telephone:\n\n\n      Thru the NET:\n\n\n   TIP options \u0026 special features:\n\n      Mag tape / /      Printer / /       Card reader / /\n\n\n      other: -------------------------------------------\n\n\n   Scheduled down-time:\n\n\n\n\n                                                                [Page 2]\n\f\nNWG/RFC# 352                            DHC 5-JUN-72 16:11  10594\nTIP site information form\n\n\n\n   Additional comments:\n\n\n\n\n\n\n   Ports:\n\n\n      TIP address       Terminal-type or dial-up phone number:\n      (port num.)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                [Page 3]\n\f\n"
+}

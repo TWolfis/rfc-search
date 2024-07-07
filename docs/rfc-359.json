@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "359",
+  "howpublished": "RFC 359",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0359",
+  "url": "https://www.rfc-editor.org/info/rfc359",
+  "title": "Status of the Release of the New IMP System (2600)",
+  "pagetotal": "1",
+  "year": "1972",
+  "month": "jun",
+  "body": "\n\n\n\n\n\nNetwork Working Group                                 Dave Walden\nRFC #359                                              BBN\nNIC #10601                                            22 June 1972\nCategory:  B.1\nObsoletes:  RFC #343\n\n                           I M P O R T A N T\n                           =================\n\n         HE STATUS OF THE RELEASE OF THE NEW IMP SYSTEM (2600)\n\n        We have still not managed to get the new IMP system up.\n\n\n     To recapitulate:\n\n     We tried the first time May 15; but, completely under- estimating\nthe difficulty of distributing the new system to over twenty-five\nsites, we never even got around to debugging the system.\n\n     We developed a suitable distribution mechanism and tried again\nMay 31.  This time we got to debug the new IMP system and found a\nnumber of problems which precluded leaving the new system up.\n\n     Trying again June 6, we got the new IMP system up and working\nquite well, but the version of the TIP system which runs with the new\nIMP system wouldn't work hardly at all.  So we put the old systems\nback up again.\n\n     The day before yesterday, June 20, we tried again.  The IMPs and\nTIPs loaded and seemed to fly quite well, so we left the new systems\nup.  But by yesterday, June 21, afternoon, with crashes happening in\nTIPs at the rate of about one per hour, we backed off again and put\nthe old systems back up.  (One TIP crash per hour in the network means\nthere is about one crash every eight or ten hours debugging with one\nTIP which makes it nasty to debug.)\n\n     We plan to skip Tuesday, June 27, and Tuesday, July 4, and to try\nagain Thursday, July 6 (1972), and if necessary, again on Tuesday,\nJuly 18, and following Tuesdays, as per RFC #343.\n\nDCW/jm\n\n       [ This RFC was put into machine readable form for entry ]\n       [ into the online RFC archives by BBN Corp. under the   ]\n       [ direction of Alex McKenzie.                      1/97 ]\n\n\n\n\n\n                                                                [Page 1]\n\f\n"
+}

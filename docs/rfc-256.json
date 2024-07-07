@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "256",
+  "howpublished": "RFC 256",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0256",
+  "url": "https://www.rfc-editor.org/info/rfc256",
+  "title": "IMPSYS change notification",
+  "pagetotal": "1",
+  "year": "1971",
+  "month": "nov",
+  "body": "\n\n\n\n\n\nNetwork Working Group                                B. Cosell\nRFC #256                                             BBN\nNIC #7697                                            3 November 1971\nCategories:  B.1\nUpdates:  None\nObsoletes:  None\n\n\n                       IMPSYS Change Notification\n\n        We will shortly install (or perhaps will have already\n   installed) a new version of the IMP system, Version 2513.  The\n   new version incorporates two principal changes:\n\n     1.  A Host will be prevented from sending any messages\n         into the Network for between 40 seconds and a\n         minute and a quarter after he comes alive (this\n         has been changed from between 30 seconds and a\n         minute).\n\n     2.  The IMP has been given the ability to test its Host\n         interfaces under control of the NCC.  This will help\n         us isolate the trouble when the IMP Host communication\n         path is faulty.\n\n\n     BC/jm\n\n\n       [ This RFC was put into machine readable form for entry ]\n       [ into the online RFC archives by BBN Corp. under the   ]\n       [ direction of Alex McKenzie.                   12/96   ]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                [Page 1]\n\f\n"
+}

@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "29",
+  "howpublished": "RFC 29",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0029",
+  "url": "https://www.rfc-editor.org/info/rfc29",
+  "title": "Response to RFC 28",
+  "pagetotal": "1",
+  "year": "1970",
+  "month": "jan",
+  "body": "Network Working Group                                   Robert Kahn\nRFC-29                                                  BBN\n                                                        19 January 1970\n\n\n\n\n\nThis note is in response to Bill English's Request for Comments:  28.\n\nA \"millisecond\" clock should be satisfactory for most network measurements.\nRound-trip message transit times typically should be at least on the\norder of tens to hundreds of milliseconds.  The IMP contains a 16-bit\nhardware clock which is incremented every 100 microseconds to allow for\ntiming of internal events within the IMP, as for example, during tracing.\nHowever, most measurements are made using a 25.6 ms. software clock.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDISTRIBUTION:\n\nA. Bhushan, MIT\nS. Carr. Utah\nG. Cole, SDS\nS. Crocker, UCLA\nK. Fry, MITRE\nJ. Heafner, RAND\nB. Kahn, BBN\nT. O'Sullivan, Raytheon\nL. Roberts, ARPA\nP. Rovner, LL\nR. Stoughton, UCSB"
+}

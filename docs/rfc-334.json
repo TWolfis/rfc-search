@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "334",
+  "howpublished": "RFC 334",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0334",
+  "url": "https://www.rfc-editor.org/info/rfc334",
+  "title": "Network Use on May 8",
+  "pagetotal": "1",
+  "year": "1972",
+  "month": "may",
+  "body": "\n\n\n\n\n\nNetwork Working Group                     Alex McKenzie\nRFC #334                                  BBN\nNIC 9927                                  1 May 1972\n\n\n                          Network Use on MAY 8\n\n\n\n     Vint Cerf of UCLA Network Measurement Center has just indicated\nto us a requirement to carry out certain performance experiments on\nthe network prior to installation of the new IMP software on May 15.\nThese experiments are designed to measure network performance under\nheavy traffic load to a single site, and thus may cause the network to\n\"lock up\" such that _no_ traffic can flow (a problem which the new IMP\nsoftware is de- signed to prevent). Vint has indicated to us that ARPA\nregards these experiments as extremely important in spite of the\npossibility of lockup; we have therefore agreed to assist with the\nexperiments and scheduled them for May 8.\n\n     Although we do not know whether these experiments will cause\nlockup, we suggest that sites do not schedule important network work\nfor Monday, May 8. We apologize for the lateness of this announcement.\n\n\n\n\n\n\n\n\n       [ This RFC was put into machine readable form for entry ]\n       [ into the online RFC archives by BBN Corp. under the   ]\n       [ direction of Alex McKenzie.                   12/96   ]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                [Page 1]\n\f\n"
+}

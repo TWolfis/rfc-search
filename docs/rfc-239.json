@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "239",
+  "howpublished": "RFC 239",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0239",
+  "url": "https://www.rfc-editor.org/info/rfc239",
+  "title": "Host mnemonics proposed in RFC 226 (NIC 7625)",
+  "pagetotal": "1",
+  "year": "1971",
+  "month": "sep",
+  "body": "\n\n\n\n\n\nNetwork Working Group                                        R. Braden\nRequest for Comments:  #239                                  UCLA-CCN\nNIC 7664                                                     23 September 1971\nCategories: D.3\nRelated:  #226, 229, 236\n\n                  HOST MNEMONICS PROPOSED IN RFC #226\n\n   (Note from NIC: These are comments sent by R.Braden to P. Karp in NIC\n   7626, and are now issued as NIC 7664, RFC 239 to include them in the\n   dialogue along with RFC 226, 229, 236)\n\n        CCN is in full agreement that a standard set of host mnemonics\n   should be selected.  However, your proposed set is not fully\n   satisfactory.\n\n   1.  The set you suggest was created, I assume, by the systems\n       programmer(s) who wrote TELNET in TENEX.  It is a set of\n       historical accidents, and shows it.\n\n   2.  A better source for standard mnemonics might be the NIC site\n       codes, since these have been chosen with more care and will\n       become familiar as we begin to use the NIC on-line.  Surely\n       the NIC is a more reasonable source for a defacto standard\n       than a particular system programmer.\n\n   3.  Should mnemonics be limited to 6 characters?\n\n   4.  The most recent list from BBN (NIC #7181, RFC #208,\n       August 9, 1971) shows 40 hosts.  You show only 20.  Your\n       proposed standard should include known hosts at this time.\n\n   5.  The mnemonic \"UCLA36\" seems a particularly bad choice; \"UCLA91\"\n       would be much better.\n\n   6.  Also, we at CCN object to the short form \"UCLA\" for the NMC\n       Sigma 7; that also is historical.  We propose the following:\n\n           host 1: UCLAS7 or UCLANM;         host 65: UCLA91.\n\n   7.  \"SRIARC\" is a poor choice; everybody calls it the NIC.  So we\n       suggest \"SRINIC\" for host 2.\n\n        Please, let's not perpetrate systems programmers' midnight\n   decisions on all future Network users!  Standards are vital, and\n   deserve a little care.\n\n       [ This RFC was put into machine readable form for entry ]\n       [ into the online RFC archives by BBN Corp. under the   ]\n       [ direction of Alex McKenzie.                   12/96   ]\n\u001b9\n\n\n                                                                [Page 1]\n\f\n"
+}

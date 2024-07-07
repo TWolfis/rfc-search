@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "405",
+  "howpublished": "RFC 405",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0405",
+  "url": "https://www.rfc-editor.org/info/rfc405",
+  "title": "Correction to RFC 404",
+  "pagetotal": "1",
+  "year": "1972",
+  "month": "oct",
+  "body": "\n\n\n\n\n\nNWG/RFC  #405                       AAM 10-OCT-72 13:09 12110\nCorrection to RFC 404\n\nThis is to correct a typographic error in RFC# 404.  The\naddress of the ISI IMP is 22 (decimal), not 86 as was\nerroneously stated.  All other numbers in RFC# 404 were\ncorrect;  the complete (corrected) text follows:\n\nThis week the RAND IMP was temporarily removed from the\nNetwork and a new IMP was installed at ISI.  Some of the\npeople and computers from RAND have moved to ISI, in\nparticular the RAND TENEX is now the ISI TENEX.  The address\nof the ISI IMP is 22 (decimal) and the TENEX at ISI is Host\nnumber one; thus the \"Network Address\" of the ISI TENEX is 86.\nSometime early next week the RAND IMP will be re-installed.\nIt will still be IMP number 7, and the IBM 360/65 at RAND will\nstill be \"Network Address\" 7.\n\n\n\n\n\n\n\n    [ This RFC was put into machine readable form for entry ]\n    [ into the online RFC archives by BBN Corp. under the   ]\n    [ direction of Alex McKenzie.                      1/97 ]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                [Page 1]\n\f\n"
+}

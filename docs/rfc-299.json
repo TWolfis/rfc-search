@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "299",
+  "howpublished": "RFC 299",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0299",
+  "url": "https://www.rfc-editor.org/info/rfc299",
+  "title": "Information Management System",
+  "pagetotal": "1",
+  "year": "1972",
+  "month": "feb",
+  "body": "\n\n\n\n\n\nNetwork Working Group                             NIC 8487\nRequest for Comments #299\n                                                  Dorothy Hopkin\n                                                  University of Illinois\n                                                  Center for Advanced\n                                                    Computation\n                                                  February 11, 1972\n\n\n                     Information Management System\n                     -----------------------------\n\n        We intend to build an Information Management and Statistical System\n   for the ILLIAC IV.  It is intended to support various areas of research\n   whose problems are ILLIAC IV suited and whose data bases are large.\n\n        This System will include a user language and necessary manipulatory\n   routines for the ILLIAC IV.  It will use the datacomputer for Archival\n   storage and provide the interface to the datacomputer for queries not\n   ILLIAC suited.\n\n        If you have problems involving large amounts of data and wish to\n   learn more about our proposed system or contribute to its development,\n   contact:\n\n                        Dorothy Hopkin\n                        University of Illinois\n                        Center for Advanced Computation\n                        333 Advanced Computation Building\n                        Urbana, Illinois 61801\n\n                        Tel:  (217)  333-8060\n\n                                     or\n\n                              (217)  333-6159\n\n\n       [ This RFC was put into machine readable form for entry ]\n       [ into the online RFC archives by BBN Corp. under the   ]\n       [ direction of Alex McKenzie.                   12/96   ]\n\n\n\n\n\n\n\n\n\n\n                                                                [Page 1]\n\f\n"
+}

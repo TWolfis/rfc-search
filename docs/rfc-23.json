@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "23",
+  "howpublished": "RFC 23",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0023",
+  "url": "https://www.rfc-editor.org/info/rfc23",
+  "title": "Transmission of Multiple Control Messages",
+  "pagetotal": "1",
+  "year": "1969",
+  "month": "oct",
+  "body": "Network Working Group                                           G. Gregg\nRequest for Comments: 23                                            UCSB\n                                                         16 October 1969\n\n\n\n                TRANSMISSION OF MULTIPLE CONTROL MESSAGES\n\n\n\n\nThe network program at a site must be prepared to send or receive more\nthan one control message in a single control communication.\n\nDuring the time that the control link is blocked awaiting RFNM, it is\npossible that a number of control messages to a particular remote host\nwill accumulate.  When the link is unblocked, these should all be sent\nin a single communication for greatest efficiency.\n\nFor receiving, it will be necessary to have a loop which returns to\ndecode and take action on successive control messages until the control\ncommunication is exhausted.\n"
+}

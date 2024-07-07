@@ -1,0 +1,14 @@
+{
+  "series": "Request for Comments",
+  "number": "45",
+  "howpublished": "RFC 45",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0045",
+  "url": "https://www.rfc-editor.org/info/rfc45",
+  "title": "New Protocol is Coming",
+  "pagetotal": "1",
+  "year": "1970",
+  "month": "apr",
+  "day": "1",
+  "body": "\n\n\n\n\n\nNetwork Working Group                                   J. Postel\nRequest for Comments #45                                S. Crocker\n                                                        UCLA\n                                                        14 April 70\n\n                         New Protocol is Coming\n\nWe are currently preparing a clean version of the Network protocol,\nhopefully suitable for immediate implementation.  As advertised, we\nwill send these specs out on April 28.\n\nSince the SJCC is one week later, we will host a discussion meeting in\nAtlantic City, Thursday, May 7, win the afternoon.  The purpose of the\ndiscussion meeting will be for us to explicate unclear details of our\nApril 29 document, and for everyone to exchange gripes, suggestions\nand schedules.\n\n(Note that the network session, chaired by Larry Roberts with papers\nfrom BBN, et al is Thursday morning.)\n\n       [ This RFC was put into machine readable form for entry ]\n         [ into the online RFC archives by Josh Elliott 1/98 ]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                [Page 1]\n\f\n"
+}

@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "41",
+  "howpublished": "RFC 41",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0041",
+  "url": "https://www.rfc-editor.org/info/rfc41",
+  "title": "IMP-IMP Teletype Communication",
+  "pagetotal": "1",
+  "year": "1970",
+  "month": "mar",
+  "body": "\n\n\n\n\n\nNetwork Working Group                           John Melvin\nRequest for Comments: 41                        SRI/ARC\n                                                30 March 1970\n\n\n\n               IMP/IMP Teletype Communication\n\n\n\n        I have occasionally found myself in a situatuation in\nWhich I see a message from site X on my IMP teletype, but I don't\nknow the time and date of the message.\n\n\n        I find this annoying, since a response to it may be in order\nif it is (say) less than an hour old, but not if it is several hours\nold. The situation is not improved by the existence of sites that\nnow span all time zones of the U.S. and do not have direct voice\nconnection.\n\n\n        It is requested that everyone tag their IMP to IMP tele-\ntype messages that cause no response at the receiving IMP.\n\n\n        The transmitting IMP site should use 24 hour time and include\nthe time zone designation.\n\n\n   [ This RFC was put into machine readable form for entry ]\n   [ into the online RFC archives by Larry Campbell 7/97   ]\n\n\n\n"
+}

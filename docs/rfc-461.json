@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "461",
+  "howpublished": "RFC 461",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0461",
+  "url": "https://www.rfc-editor.org/info/rfc461",
+  "title": "Telnet Protocol meeting announcement",
+  "pagetotal": "1",
+  "year": "1973",
+  "month": "feb",
+  "body": "\n\n\n\n\n\nNetwork Working Group                                  A. McKenzie\nRFC # 461                                              BBN-NET\nNIC # 14416                                            February 14, 1973\n\n\n                  TELNET Protocol Meeting Announcement\n\nSince the publication of RFC #318 there have been a great number of\nproposals for changes and/or extensions to the (still unofficial) TELNET\nProtocol. It now seems appropriate to have a meeting of concerned\nparties to try, once again, to reach a consensus position and define an\n\"official\" protocol (with perhaps, some room for optional expansion).\n\nAccordingly, I hereby announce a TELNET Protocol meeting to be held at\nUCLA on Monday, March 5. I  expect this to be a working meeting (rather\nthan a tutorial to bring new members of the network community up-to-\nspeed) and therefore wish to invite the attendance of only those\nindividuals prepared to discuss at LEAST those issues which have already\nbeen raised.  At a minimum, attendees should be familiar with the\nfollowing:\n\n    RFC 318\n    RFC 328\n    RFC 340\n    RFC 357\n    RFC 393\n    RFC 426\n    RFC 435\n\nA familiarity with deliberations of the TELNET Committee prior to RFC\n318 would probably also be helpful.  Finally, attendees should be aware\nthat there are few (no?) Hosts which follow the echo-control conventions\ndescribed in RFC 318.\n\nAnyone wishing to attend this meeting should contact Alex McKenzie at\nBBN (NIC ident aam) 50 Moulton Street, Cambridge, Mass. 02l38.  My\ntelephone number is\n\n    (617) 491-1850 ext. 441\n\nWhen there is some indication of the number of individuals planning to\nattend, a meeting room will be selected, a time announced, etc.\n\n\n       [ This RFC was put into machine readable form for entry ]\n       [ into the online RFC archives by Alex McKenzie with    ]\n       [ support from GTE, formerly BBN Corp.             9/99 ]\n\n\n\n\nMcKenzie                                                        [Page 1]\n\f\n"
+}

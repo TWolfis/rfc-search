@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "347",
+  "howpublished": "RFC 347",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0347",
+  "url": "https://www.rfc-editor.org/info/rfc347",
+  "title": "Echo process",
+  "pagetotal": "1",
+  "year": "1972",
+  "month": "may",
+  "body": "\n\n\n\n\n\nNetwork Working Group                           Jon Postel\nRequest for Comments : 347                      Computer Science\n                                                UCLA-NMC\nNIC  10426                                      30 May 72\n\nCategories: Standard Processes\n\n\n                                Echo Process\n\n\nI suggest that for debugging and measurement purposes those hosts which\nare willing implement an \"Echo\" process.\nThis echo process would listen for a request for connection and execute\nthe Initial Connection Protocol (ICP) as specified in NIC 7104 the\n\"Current Network Protocols\" notebook.  Upon completion of the ICP the\necho process would wait for data from the network.  When the data is\nreceived from the network it is echoed at once, (and the buffer space is\nre-allocated).  By echoed I mean that the data received is sent back\nover the network, bit for bit with no modification by the echo process.\nThe echo process is terminated by closing the network connections.\nNote that BBN-TENEX has had such an echo process available for use for a\nlong time.\n\n\n\n\n\n\n\n       [ This RFC was put into machine readable form for entry ]\n       [ into the online RFC archives by BBN Corp. under the   ]\n       [ direction of Alex McKenzie.                   12/96   ]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                [Page 1]\n\f\n"
+}

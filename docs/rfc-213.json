@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "213",
+  "howpublished": "RFC 213",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0213",
+  "url": "https://www.rfc-editor.org/info/rfc213",
+  "title": "IMP System change notification",
+  "pagetotal": "1",
+  "year": "1971",
+  "month": "aug",
+  "body": "\n\n\n\n\n\nNetwork Working Group                              B. Cosell\nRequest for Comments:  #213                        BBN\nNIC #7194                                          20 August 1971\nCategories:  B.1\nUpdates:  None\nObsoletes:  None\n\n\n\n                     IMP System Change Notification\n                     ------------------------------\n\n\n     During the week of 16 August, we installed a new version of\nthe IMP system, version 2505.  The new version incorporated three\nprincipal changes:\n\n     1)  The number of hosts the system can handle was increased\n         from three to four. Although this caused a rather large\n         internal change to the IMP, the only external effects of\n         the change are the presence of a new status light [light\n         8 monitors Host 4], and the lengthening of the 10-second\n         and snapshot statistics.\n\n     2)  The host handling routines were modified to gather more\n         accurate and voluminous statistics on host usage of the\n         network, and report them to NCC.\n\n     3)  The 10-sec. statistics were changed to measure time for\n         the host \"round trip\" statistic in units of 800 rather\n         than 100 microseconds.\n\n          It is not anticipated that the new system should have any\n     direct effect on the hosts.\n\n\n\n\n\n          [ This RFC was put into machine readable form for entry ]\n          [ into the online RFC archives by BBN Corp. under the   ]\n          [ direction of Alex McKenzie.                   12/96   ]\n\n\n\n\n\n\n\n\n\n                                                                [Page 1]\n\f\n"
+}

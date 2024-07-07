@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "449",
+  "howpublished": "RFC 449",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0449",
+  "url": "https://www.rfc-editor.org/info/rfc449",
+  "title": "Current flow-control scheme for IMPSYS",
+  "pagetotal": "1",
+  "year": "1973",
+  "month": "jan",
+  "body": "\n\n\n\n\n\nNetwork Working Group                                       Dave Walden\nRFC # 449                                                   BBN-NET\nNIC # 14133                                                 Jan. 6, 1973\nUpdates RFC 442\n\n\n              The Current Flow-control Scheme for IMPSYS.\n\n\n    While Vint's notes on IMPSYS flow-control from the March 16, 1972,\nmeeting (RFC 442) seem reasonably accurate and while he does cite our\nQuarterly Technical Report #13, he might have done better to cite BBN's\ntwo formal publications relevant to the IMPSYS flow-control scheme:\n\n    1.  McQuillan et al, Improvements in the Design and Performance of\n        the ARPA Network, Proceedings AFIPS 1972 FJCC, pp. 741-754.\n\n    2.  BBN Report 1822, Specifications for the Interconnection of a\n        Host and an IMP, December 1972 Revision, section 3, pp. 17-35.\n\nReference 2 is particularly important reading for NCP programmers -\nthings have recently changed somewhat.\n\n    The inter-IMP acknowledgement mechanism, described in the last\nsection of Vint's RFC 442, is also described in reference 1 and an\nalmost identical mechanism is described in Appendix F of reference 2.\nThe acknowledgement is of only intellectual interest to most Hosts as it\nis transparent to network users.  However, the description in reference\n2 is of vital interest to so-called Very Distant Hosts.\n\n\n\n\n\n\n\n\n\n\n       [ This RFC was put into machine readable form for entry ]\n       [ into the online RFC archives by Alex McKenzie with    ]\n       [ support from GTE, formerly BBN Corp.             9/99 ]\n\n\n\n\n\n\n\n\n\nWalden                                                          [Page 1]\n\f\n"
+}

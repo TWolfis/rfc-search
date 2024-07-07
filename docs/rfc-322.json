@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "322",
+  "howpublished": "RFC 322",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0322",
+  "url": "https://www.rfc-editor.org/info/rfc322",
+  "title": "Well known socket numbers",
+  "pagetotal": "1",
+  "year": "1972",
+  "month": "mar",
+  "body": "\n\n\n\n\n\nNetwork Working Group                                         V. Cerf\nRequest for Comments #322                                     J. Postel\nNIC #9609                                                     UCLA-NMC\n                                                              26 March 72\n\n                       Well Known Socket Numbers\n\n     The Network Measurement Group would like to establish a network\nstandard socket number for a Process Discard service (not all HOSTs need\ncooperate.) To do this, it is necessary to know which sockets at each\nHOST have already been allocated to standard network functions.\n\n     At all HOSTs which permit login for services, socket 1 is the\nNetwork Logger on which ICP may be performed.\n\n     We would like to catalog other sockets which are supposed to be\nwell-known, so we would appreciate having a note or phone call from each\nHOST Technical Liaison describing the function and socket numbers of\nnetwork service programs at each HOST.  The catalog will be published and\nwe would recommend that it be maintained at NIC.\n\n\n                            Dr. Vint Cerf or Jon Postel\n                            3804 Boelter Hall\n                            UCLA Computer Science Department\n                            Los Angeles, California 90024\n\n                            (213) 825-4864   Vint\n\n                            (213) 825-4733   Jon\n\n                            (213) 825-2368   Secretary\n\n\n\n\n       [ This RFC was put into machine readable form for entry ]\n       [ into the online RFC archives by BBN Corp. under the   ]\n       [ direction of Alex McKenzie.                   12/96   ]\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                [Page 1]\n\f\n"
+}

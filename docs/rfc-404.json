@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "404",
+  "howpublished": "RFC 404",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0404",
+  "url": "https://www.rfc-editor.org/info/rfc404",
+  "title": "Host Address Changes Involving Rand and ISI",
+  "pagetotal": "1",
+  "year": "1972",
+  "month": "oct",
+  "body": "\n\n\n\n\n\nNWG/RFC #404                            AAM 5-OCT-72 13:51  12068\nHost Address Changes Involving RAND and ISI\n\n\n   This week the RAND IMP was temporarily removed from the\n   Network and a new IMP was installed at ISI.  Some of the\n   people and computers from RAND have moved to ISI, in\n   particular the RAND TENEX is now the ISI TENEX.  The address\n   of the ISI IMP is 86 (decimal) and the TENEX at ISI is Host\n   number one; thus the \"Network Address\" of the ISI TENEX is 86.\n   Sometime early next week the RAND IMP will be re-installed.\n   It will still be IMP number 7, and the IBM 360/65 at RAND will\n   still be \"Network Address\" 7.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    [ This RFC was put into machine readable form for entry ]\n    [ into the online RFC archives by BBN Corp. under the   ]\n    [ direction of Alex McKenzie.                      1/97 ]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                [Page 1]\n\f\n"
+}

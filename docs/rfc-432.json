@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "432",
+  "howpublished": "RFC 432",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0432",
+  "url": "https://www.rfc-editor.org/info/rfc432",
+  "title": "Network logical map",
+  "pagetotal": "1",
+  "year": "1972",
+  "month": "dec",
+  "body": "\n\n\n\n\n\nNetwork Working Group                                          N. Neigus\nRequest for Comment: 432                                         BBN-NET\nNIC: 13490                                                 December 1972\n\n\n                          Network Logical Map\n\n   Attached is the logical map of the network as of December 30, 1972.\n   The ovals indicate the host computers that we think are connected to\n   each IMP, with the double oval implying an interface.  If there are\n   any errors in the map or if your status vis-a-vis connected hosts, is\n   going to change within the next few months, please contact:\n\n\n            Nancy J. Neigus\n\n            Bolt Beranek and Newman Inc.\n\n            50 Moulton Street\n\n            Cambridge, Ma. 02138\n\n            617-491-1850   X511\n\n   or leave a message for NJN at the NIC.  In the future we would\n   appreciate being notified any time there is such a change.\n\n\n   NJN/jm\n\n   Attach.\n\n\n   Here was a figure of:\n\n   ARPA NETWORK, LOGICAL MAP, JANUARY 1973\n\n   (The map is available in .PDF and .PS format.)\n\n\n          [This RFC was put into machine readable form for entry]\n      [into the online RFC archives by Helene Morin, Via Genie 12/99]\n\n\n\n\n\n\n\n\n\nNeigus                                                          [Page 1]\n\f\n"
+}

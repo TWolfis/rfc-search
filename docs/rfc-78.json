@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "78",
+  "howpublished": "RFC 78",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0078",
+  "url": "https://www.rfc-editor.org/info/rfc78",
+  "title": "NCP Status Report: UCSB/Rand",
+  "pagetotal": "1",
+  "year": "1970",
+  "month": "oct",
+  "body": "\n\n\n\n\n\nNetwork Working Group                                   E. Harslem\nRequest for Comments:  78                               J. Heafner\nNIC 5199                                                J. White\n\n\n                     NCP Status Report:  UCSB/RAND\n\nNCP Checkout\n\n   UCSB an RAND recently conducted UCSB console to/from RAND console\n   validation fo teh respective NCPs.  The exercise was simply to verify\n   that the NCPs behaved according to Document #1 protocol.\n\nWhat was Learned\n\n   The UCSB and RAND NCPs responded as specified in Document #1.  RAND\n   uncovered a few minor problems with their Network Services Program\n   (NSP) that interfaces video graphics consoles to the NCP.  The nature\n   of these problems were data format conversions and human factors\n   aspects of display presentation of status information.\n\nThe Immediate Future\n\n   1. Both UCSB and RAND will be happy to participate with other sites\n   in verifying their NCPs.\n\n   2. We intend to conduct additional exercises involving data re-\n   configurations and file transmissions.\n\n\n\n   JFH:hs\n\n\n         [ This RFC was put into machine readable form for entry ]\n           [ into the online RFC archives by Josh Elliott 1/98 ]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                [Page 1]\n\f\n"
+}

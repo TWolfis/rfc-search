@@ -1,0 +1,14 @@
+{
+  "series": "Request for Comments",
+  "number": "127",
+  "howpublished": "RFC 127",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0127",
+  "url": "https://www.rfc-editor.org/info/rfc127",
+  "title": "Comments on RFC 123",
+  "pagetotal": "2",
+  "year": "1971",
+  "month": "apr",
+  "day": "1",
+  "body": "\n\n\n\n\n\nNetwork Working Group                             J. Postel\nRequest for Comments # 127                        20 April 71\nNIC #5843                                         UCLA\n[Category D.1                                     Computer Science\nUpdates 123]\n\n                          Comments on RFC 123\n\nThe following is my interpretation of the exchange between NCP's which\nwould be necessary to carry out the Initial Connection Protocol of RFC\n123.\n\n     Server NCP                                User NCP\n     ----------                                --------\n\n     Listen for Connection on L                RTS, U, L, l\n     STR, L, U, 32                                         A\n\n     Send 32 bits of data\n     in 1 message on link l\n                           A\n     (value is S)                              Receive 32 bits of data\n                                               from link l (value is S)\n                                                          A\n\n     CLS, L, U                                 CLS, U, L\n\n     STR, S+1, U, B                            STR, U+1, S, B\n                   s                                         u\n\n     RTS, S, U+1, l                            RTS, U, S+1, l\n                   B                                         c\n\n     wait for connection                       wait for connection\n\n     ALL, l , m , b                            ALL, l , m , b\n           B   B   B                                 c   c   c\n\n     data sent on link l                       data sent on link l\n                        c                                         B\n\n     data received on link l                   data received on link l\n                            B                                         c\n\n\n\n\n\n\n\n\n                                                                [Page 1]\n\f\nl , l , and l  are links, m  and m  are message allocations, b\n A   B       c             B      c                           B\nand b  are bit allocations, and all other symbols are as defined in\n     c\nRFC 123.\n\n\n       [ This RFC was put into machine readable form for entry ]\n         [ into the online RFC archives by Gert Doering 4/97 ]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                [Page 2]\n\f\n"
+}

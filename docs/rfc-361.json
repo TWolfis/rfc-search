@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "361",
+  "howpublished": "RFC 361",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0361",
+  "url": "https://www.rfc-editor.org/info/rfc361",
+  "title": "Deamon Processes on Host 106",
+  "pagetotal": "1",
+  "year": "1972",
+  "month": "jul",
+  "body": "\n\n\n\n\n\nNetwork Working Group                              Bob Bressler\nRequest for Comments:  361                         MIT-DMCG\nNIC:  10603                                        5 July 1972\n\n\n     In response to RFCs 347 and 348, ECHO and DISCARD, MIT-DMCG\n(Host 106) now has deamon processes that will respond to RFCs on\nsockets 7 and 9.\n\n     A few administrative type decisions were made, to which I\nwould like to solicit comments.\n\n     First, if our machine is too full to support another deamon\nprocess, the pro-offered connection will be refused;  that is, a\nCLS will be sent in response to the RFC on socket 7 or 9.\nSecond, if no activity takes place for two consecutive minutes\n(no characters received on input, or output blocked waiting for\nallocation), the connection will be aborted.\n\n     Does anyone see the need or desirability for the third\nservice in this set:  a random character generator?  Many systems\nprovide programs like \"TTYTST\" available over the standard login\nconnection, but there would be no difficulty in creating a server\nconnection (like ECHO) offering just this limited service.  I'm\nsure that it would be useful for new NCPs, as well as statistics\ngathering.\n\n\n\n\n\n\n\n\n\n\n    [ This RFC was put into machine readable form for entry ]\n    [ into the online RFC archives by BBN Corp. under the   ]\n    [ direction of Alex McKenzie.                      1/97 ]\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                [Page 1]\n\f\n"
+}

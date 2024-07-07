@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "345",
+  "howpublished": "RFC 345",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0345",
+  "url": "https://www.rfc-editor.org/info/rfc345",
+  "title": "Interest in Mixed Integer Programming (MPSX on NIC 360/91 at CCN)",
+  "pagetotal": "1",
+  "year": "1972",
+  "month": "may",
+  "body": "\n\n\n\n\n\nNIC 10424                                             Karl Kelley\nNWG/RFC 345                                University of Illinois\n                                                     May 26, 1972\n\n     INTEREST IN MIXED INTEGER PROGRAMMING (MPSX ON 360/91 AT CCN)\n\n     MPSX is a newer version of the IBM project MPS, used for integer\nprogramming.  From what I've been told, MPSX outperforms the previous\npackage.  In addition, it has available a feature of mixed integer\nprogramming.\n\n     Since MPSX is an IBM product, an installation which uses it is\ncharged a fixed rental fee per month.  At the present time, CCN does\nnot have this processor with its system.  We are anticipating asking\nthem to install it, with the mixed integer programming option.  We\nare looking for any other users from the Network who may need this\nsoftware in order to prorate the cost between several installations.\nThe initial estimate of the cost is $130/month, plus $225 for the\nmixed integer programming feature.  A share of this cost would be\nassigned to each user of the system.  I am told by Robert Bell of CCN\nthat they could take care of those details for us.\n\n     If you have an interest in this, I urge you to contact me within\nthe month.  If you have questions about the mixed integer programming\nfeature of the MPSX system itself, you could contact:\n\n                     Stewart Schuster\n                     University of Illinois\n                     Center for Advanced Computation\n                     327 Advanced Computation Building\n                     Urbana, Illinois 61801\n\n                     Tel:  (217) 333-3036\n\n     Of course, in the meantime, the system MPS is available on the\nCCN system.\n\nKCK:mdt\n\n       [ This RFC was put into machine readable form for entry ]\n       [ into the online RFC archives by BBN Corp. under the   ]\n       [ direction of Alex McKenzie.                   12/96   ]\n\n\n\n\n\n\n\n\n\n                                                                [Page 1]\n\f\n"
+}

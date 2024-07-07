@@ -1,0 +1,14 @@
+{
+  "series": "Request for Comments",
+  "number": "6",
+  "howpublished": "RFC 6",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0006",
+  "url": "https://www.rfc-editor.org/info/rfc6",
+  "title": "Conversation with Bob Kahn",
+  "pagetotal": "1",
+  "year": "1969",
+  "month": "apr",
+  "day": "1",
+  "body": "Network Working Note                                    Steve Crocker, UCLA\nRFC-6                                                   10 April 1969\n\n\n\n                        CONVERSATION WITH BOB KAHN\n\n\n\n\n\nI talked with Bob Kahn at BB\u0026N yesterday.  We talked about code conversion\nin the IMP's, IMP-HOST communication, and HOST software.\n\nBB\u0026N is prepared to convert 6, 7, 8, or 9 bit character codes into 8-bit\nASCII for transmission and convert again upon assembly at the destination\nIMP.  BB\u0026N plans a one for one conversion scheme with tables unique to the\nHOST.  I suggested that places with 6-bit codes may also want case shifting.\nBob said this may result in overflow if too many case shifts are necessary.\nI suggested that this is rare and we could probably live with an overflow\nindication instead of a guarantee.\n\nWith respect to HOST-IMP communication, we now have a five bit link field\nand a bit to indicate conversion.  Also possible is a 2-bit conversion\nindicator, one for converting before sending and one for converting after.\nThis would allow another handle for checking or controlling the system.\n\nThe HOST can send messages or portions of a message to its IMP specifying\n\n        1.  Tracing\n        2.  Conversion\n        3.  Whether message is for destination IMP or HOST\n        4.  Send RFNM\n        5.  HOST up or down\n        6.  Synchronization\n        7.  Format Error Messages\n        8.  Master Link Clear\n        9.  Status Requested\n\nThe IMP can send to its HOST information on\n\n        1.  Conversion\n        2.  REFNM Arrived\n        3.  IMP up or down\n        4.  Synchornization\n        5.  Called HOST not Responding\n        6.  Format Error\n        7.  Status in IMP\n\nI also summarized for Bob the contents of Network Notes l, 2, and 3.\n\n\n"
+}

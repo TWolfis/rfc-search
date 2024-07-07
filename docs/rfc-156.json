@@ -1,0 +1,14 @@
+{
+  "series": "Request for Comments",
+  "number": "156",
+  "howpublished": "RFC 156",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0156",
+  "url": "https://www.rfc-editor.org/info/rfc156",
+  "title": "Status of the Illinois site: Response to RFC 116",
+  "pagetotal": "1",
+  "year": "1971",
+  "month": "apr",
+  "day": "1",
+  "body": "\n\n\n\n\n\nNetwork Working Group                                      J. Bouknight\nRequest for Comments: 156                                 26 April 1971\nCategory: G.5                                                  Illinois\nObsoletes: None\nUpdates: None\n\n\nStatus of the Illinois Site (Response to RFC 0116)\n\nAs of the date of the report, 26 April, the Illinois Site has complete\noperational hardware connecting the PDP-11 system with the IMP.\n\nDue to much trouble with the Burroughs B6500 computer, final checkout\nof the operating system plus the network control program for the\nPDP-11 has been seriously curtailed.  Current expectations are:\n\n     --checkout of the NCP by the latter part of May\n\n     --installation of the PDP-11 system in Paoli, PA (the operating\n       link between Illinois and Burroughs in Paoli) so that the system\n       will be operational during June\n\n\n       [ This RFC was put into machine readable form for entry ]\n          [ into the online RFC archives by Tom McGhan 7/97 ]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                [Page 1]\n\f\n"
+}

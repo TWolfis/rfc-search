@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "335",
+  "howpublished": "RFC 335",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0335",
+  "url": "https://www.rfc-editor.org/info/rfc335",
+  "title": "New Interface - IMP/360",
+  "pagetotal": "1",
+  "year": "1972",
+  "month": "may",
+  "body": "\n\n\n\n\n\nNetwork Working Group                        UCSB Computer\nNIC #9928                                    Research Lab.\nRFC #335                                     Roland F. Bryan\n                                             1 May 1972\n\n\n\n                         NEW INTERFACE-IMP/360\n\n\n\n     The former interface to the network for our 360-75 was replaced\nby a production unit similar to the NASA- AMES and USC versions.  This\ncontroller went into operation 1 May 1972.\n\n     We would be pleased to hear of any difficulties network users\nencounter, while operating with UCSB, that might be related to this\nunit.\n\n     Thank you.\n\n\n\n\n\n\n\n\n\n\n       [ This RFC was put into machine readable form for entry ]\n       [ into the online RFC archives by BBN Corp. under the   ]\n       [ direction of Alex McKenzie.                   12/96   ]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                [Page 1]\n\f\n"
+}

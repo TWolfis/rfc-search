@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "25",
+  "howpublished": "RFC 25",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0025",
+  "url": "https://www.rfc-editor.org/info/rfc25",
+  "title": "No High Link Numbers",
+  "pagetotal": "1",
+  "year": "1969",
+  "month": "oct",
+  "body": "Network Working Group                                      Steve Crocker\nRequest for Comments: 25                                            UCLA\n                                                         30 October 1969\n\n\n\n\n                           NO HIGH LINK NUMBERS\n\n\n\n\nBecause it may be desirable to reserve one or more link numbers for\ninstrumentation purposes, and because 256 link numbers are many more\nthan are needed, we suggest that no link number over 63 be used.  At\nUCLA, we will implement our tables to take advantage of this limitation.\nWe also note that 32 may be even more realistic, but 64 is certainly\nsufficient.\n"
+}

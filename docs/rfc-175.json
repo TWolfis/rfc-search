@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "175",
+  "howpublished": "RFC 175",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0175",
+  "url": "https://www.rfc-editor.org/info/rfc175",
+  "title": "Comments on \"Socket Conventions Reconsidered\"",
+  "pagetotal": "1",
+  "year": "1971",
+  "month": "jun",
+  "body": "\n\n\n\n\n\nNetwork Working Group                        11 June 1971\nRequest for Comments: 175                    E. Harslem - Rand\nNIC 7074                                     J. Heafner - Rand\n\n             Comments on \"Socket Conventions Reconsidered\"\n             ---------------------------------------------\n\n        We agree with the conclusions reached by Abhay, Bob, and Joel in\n   RFC #167, \"Socket Conventions Reconsidered,\" (see RFC #129, scheme #4)\n   -- especially the necessity for a major NCP overhaul.\n\n        Our main departure in thinking from RFC #167 concerns the socket\n   length. (See RFC #164, page 21.)  Since there is an apparently serious\n   TIP storage consideration, Rand- assigned sockets will have the\n   high-order 16 bits zero.\n\n        For the particular programs (current and pending) that Rand must\n   access, repeatability of socket name (RFC #167, page 3) is not\n   necessary for the user process and also not necessary for the server\n   process except for initial contact (ICP) sockets.\n\n   Our current use of socket names is diagrammed below.\n\n    O           15 16             23 24          30 31\n    ---------------------------------------------------\n   |              |                 |              |   |\n    ---------------------------------------------------\n     ^              ^                 ^              ^\n     |_ zero        |                 |              |_ gender\n                    |                 |\n                    |                 |_ zero for initial\n                    |                    contact, otherwise\n                    |                    dynamically assigned\n                    |                    by 3rd level user\n                    |                    program\n                    |_ administratively assigned (fixed\n                       and associated with programs)\n\n   (NOTE: This scheme corresponds exactly with both UCSB and UCLA/CCN\n   conventions).\n\n       [ This RFC was put into machine readable form for entry ]\n       [ into the online RFC archives by BBN Corp. under the   ]\n       [ direction of Alex McKenzie.                   12/96   ]\n\n\n\n\n\n\n\n                                                                [Page 1]\n\f\n"
+}

@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "473",
+  "howpublished": "RFC 473",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0473",
+  "url": "https://www.rfc-editor.org/info/rfc473",
+  "title": "MIX and MIXAL?",
+  "pagetotal": "1",
+  "year": "1973",
+  "month": "feb",
+  "body": "\n\n\n\n\n\nNetwork Working Group                                          D. Walden\nRequest for Comments: 473                                        BBN-NET\nNIC: 14811                                              28 February 1973\n\n\n                             MIX and MIXAL?\n\n   Is there an interpreter for Knuth's hypothetical computer, MIX,\n   together with an assemble for the MIX assembly language, MIXAL,\n   available on any ARPA Network Host? If not, will not some Network\n   Host make them available (cheaply)?--it would be considerable service\n   to all of us who are students of the \"Art of Computer Programming.\"\n\n\n          [This RFC was put into machine readable form for entry]\n     [into the online RFC archives by Helene Morin, Via Genie 12/1999]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWalden                                                          [Page 1]\n\f\n"
+}

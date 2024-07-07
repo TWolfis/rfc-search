@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "28",
+  "howpublished": "RFC 28",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0028",
+  "url": "https://www.rfc-editor.org/info/rfc28",
+  "title": "Time Standards",
+  "pagetotal": "1",
+  "year": "1970",
+  "month": "jan",
+  "body": "Network Working Group                                   Bill English\nRFC-28                                                  SRI\n                                                        13 January 1970\n\n\n\n\n                          TIME STANDARDS\n\n\n\n\nWe are about to install a relatively accurate real-time clock on our\nsystem.  I would like any comments relative to Network time standards\nfor such things as delay measurement so we can decide how good our clock\nshould be.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDISTRIBUTION:\n\nA. Bhushan, MIT\nS. Carr, Utah\nG. Cole, SDS\nS. Crocker, UCLA\nK. Fry, MITRE\nJ. Heafner, RAND\nB. Kahn, BB\u0026N\nT. O'Sullivan, Raytheon\nL. Roberts, ARPA\nP. Rovner, LL\nR. Stoughton, UCSB"
+}

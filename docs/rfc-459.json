@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "459",
+  "howpublished": "RFC 459",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0459",
+  "url": "https://www.rfc-editor.org/info/rfc459",
+  "title": "Network questionnaires",
+  "pagetotal": "1",
+  "year": "1973",
+  "month": "feb",
+  "body": "\n\n\n\n\n\nNetwork Working Group                                  W. Kantrowitz\nRFC: 459                                               LL-TX-2\nNIC: 14379                                             February 26, 1973\n\n\n                         Network Questionnaires\n\n\n    In recent times, a steady stream of questionnaires has been arriving\nfrom the network community. Each questionnaire creates an additional\ndistraction from more useful work and raises the general annoyance level\nsomewhat. The arrival of the seven-page NCP questionnaire (RFC 460) has\npushed the annoyance level over the top.\n\n    We are wondering if any of the questionnaire polluters has given any\nthought to the fact that it takes time to fill out these questionnaires\nespecially if one wants to do a conscientious job and provide reasonable\nanswers to questions which are frequently only partially applicable.\n\n    It seems rather presumptuous for RFC 460 to provide a lengthy\nquestionnaire without any explanation as to the motivation for it and\nthen request a response in two weeks. And tantalize us yet with the\npromise of additional questionnaires in the future.\n\n    Sites which have the luxury of people who have nothing better to do\nthan create questionnaires and other meta-work should realize that there\nare some sites that operate with limited personnel resources, do have\nsomething better to do, and will get nothing done if they are\ncontinually swamped with all kinds of meta-work.\n\n\n\n\n\n\n  This material has not been reviewed for public release and is intended\n  only for use with the ARPA network. It should not be quoted or cited\n  in any publication not related to the ARPA network.\n\n\n        [ This RFC was put into machine readable form for entry ]\n        [ into the online RFC archives by Alex McKenzie with    ]\n        [ support from GTE, formerly BBN Corp.             9/99 ]\n\n\n\n\n\n\n\n\nKantrowitz                                                      [Page 1]\n\f\n"
+}

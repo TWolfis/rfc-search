@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "149",
+  "howpublished": "RFC 149",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0149",
+  "url": "https://www.rfc-editor.org/info/rfc149",
+  "title": "Best Laid Plans",
+  "pagetotal": "1",
+  "year": "1971",
+  "month": "may",
+  "body": "\n\n\n\n\n\nNetwork Working Group                              S. Crocker\nRequest for Comments # 149                         UCLA\nNIC # 6752                                         10 May 1971\nCategories:  A.2\nUpdates:  #140\nObsoletes:  None\n\n\n               The Best Laid Plans . . .\n\n\n\nDr. Roberts informs me that it is now unlikely that he will be\nable to attend the Monday afternoon session of the NWG meeting,\nbut that he will be able to attend the Tuesday evening session.\nAccordingly, the topics of \"Network Planning\" and \"other ARPA\nProjects\" are moved to Tuesday evening, and on Monday afternoon,\nwe will take up as many of the items originally scheduled for\nTuesday evening as we can.\n\nThe relevant reading for Wednesday evening is RFC #131, not #113.\nIn general attendees should read all of the RFC's since the last\nNWG meeting.\n\n\n\n   [ This RFC was put into machine readable form for entry ]\n   [ into the online RFC archives by C. Harald Koch  05/97 ]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                [Page 1]\n\f\n"
+}

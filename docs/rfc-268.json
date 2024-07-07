@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "268",
+  "howpublished": "RFC 268",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0268",
+  "url": "https://www.rfc-editor.org/info/rfc268",
+  "title": "Graphics facilities information",
+  "pagetotal": "1",
+  "year": "1971",
+  "month": "nov",
+  "body": "\n\n\n\n\n\nNetwork Working Group                                    J. Postel\nRequest for Comments:  #268                              UCLA-NMC\nNIC #7816                                                Computer Science\nCategories:  Documentation                               24 November 71\nRelated:  Resource Notebook\nObsoletes:  None\n\n                    Graphics Facilities Information\n\n   It was suggested at the recent network graphics meeting (@ SAIL\n   21-23 November) that it would be a good idea to include in the Resources\n   Notebook information about the graphics facilities at each site.  To\n   further this proposal, I request that the Technical Liaison (or other\n   knowledgeable person) at each site send me a description of their\n   graphics facilities for inclusion in the Resources Notebook.\n\n   [It is not intended that this replace any other mechanism for up-\n   dating Resource Notebook entries and the information collected will\n   be submitted to the normal editorial procedures.]\n\n\n\n\n\n       [ This RFC was put into machine readable form for entry ]\n       [ into the online RFC archives by BBN Corp. under the   ]\n       [ direction of Alex McKenzie.                   12/96   ]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                [Page 1]\n\f\n"
+}

@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "348",
+  "howpublished": "RFC 348",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0348",
+  "url": "https://www.rfc-editor.org/info/rfc348",
+  "title": "Discard Process",
+  "pagetotal": "1",
+  "year": "1972",
+  "month": "may",
+  "body": "\n\n\n\n\n\nNetwork Working Group                           Jon Postel\nRequest for Comments : 348                      Computer Science\n                                                UCLA-NMC\nNIC : 10427                                     30 May 72\n\nCategories : Standard Processes\n\n\n\n                            Discard Process\n\n\n\nI suggest that for debugging and measurement purposes those hosts which\nare willing implement a \"Discard\" process.\n\nThis discard process would listen for a request for connection and\nexecute the Initial Connection Protocol (ICP) as specified in NIC 7104\nthe \"Current Network Protocols\" notebook.  Upon completion of the ICP\nthe discard process would wait for data from the network.  When data is\nreceived from the network it is discarded at once, (and the buffer space\nis re-allocated).  The discard process is terminated by closing the\nnetwork connections.\n\n\n\n\n\n\n\n\n\n\n\n\n\n       [ This RFC was put into machine readable form for entry ]\n       [ into the online RFC archives by BBN Corp. under the   ]\n       [ direction of Alex McKenzie.                   12/96   ]\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                [Page 1]\n\f\n"
+}

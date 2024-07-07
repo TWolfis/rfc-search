@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "111",
+  "howpublished": "RFC 111",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0111",
+  "url": "https://www.rfc-editor.org/info/rfc111",
+  "title": "Pressure from the Chairman",
+  "pagetotal": "2",
+  "year": "1971",
+  "month": "mar",
+  "body": "\n\n\n\n\n\nNetwork Working Group                           S. Crocker\nRequest for Comments #111                       UCLA\nNIC #5815                                       31 March 71\n\n                       Pressure from the Chairman\n\n[Categories:  A.5;\n RFC's obsoleted:  none;\n RFC's updated:  107]\n\nIt is time to set serious schedules for the implementation of NCP's  and\nTelnets.   To  facilitate  matters,  John  Heafner of Rand has agreed to\nmonitor each site's progress and test its implementation.\n\nNetwork Liaison Contacts are hereby responsible for preparing a schedule\nfor  implementation  and  informing  John.  Such a schedule must include\ndates of\n\n   (a)  implementation of an NCP according to the specifications\n        in Document #1 as modified by RFC #107;\n\n   (b)  implementation of a user-Telnet which enables local users to\n        login to foreign Hosts;\n\n   (c)  implementation of a server-Telnet which enables foreign users to\n        login on your Host;\n\n   (d)  documentation of the mechanism for connecting to and logging in\n        to your Host;\n\n   (e)  documentation of the mechanism for obtaining job numbers,\n        passwords, etc. to your Host;\n\n   (f)  documentation of the services available on your Host; and\n\n   (e) regular operation at advertised hours.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                [Page 1]\n\f\nRFC 111\n\n\nJohn is hereby responsible  for  prodding  Host  teams  to  prodcue  the\nrequisite  schedule,  software  and  documentation;  for testing out the\nadvertised  implementations;  and  for  probing  and  understanding  the\nreasons  for  unseemly  delays.   Concomitantly,  John  is now the right\nperson  to  complain   to   about   ambiguities,   insufficiencies   and\nmisunderstandings of the protocols.\n\n   Thank you for your cooperation.\n\n\n\n               Steve Crocker\n\n\n\n       [ This RFC was put into machine readable form for entry ]\n         [ into the online RFC archives by Josh Elliott 1/98 ]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                [Page 2]\n\f\n"
+}

@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "104",
+  "howpublished": "RFC 104",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0104",
+  "url": "https://www.rfc-editor.org/info/rfc104",
+  "title": "Link 191",
+  "pagetotal": "1",
+  "year": "1971",
+  "month": "feb",
+  "body": "\n\n\n\n\n\nNIC # 5768                                             J. Postel\n                                                       C. Crocker\nNetwork Working Group                                  UCLA\nRequest for Comments: #104                             Computer Science\n                                                       25 February 71\n\n                                Link 191\n\nAt the Network meeting at the University of Illinois, it was agreed to\nreserve a link for use in measurements. The link chosen was the highest\nunassigned link which was incorrectly calculated to be number 223. The\ncorrect number is 191. Therefore, Link 191 will be assigned for\nmeasurement use. Use of this link should be cleared with the Liasion\nOfficer at the Network Measurement Center (NMC).\n\n       [ This RFC was put into machine readable form for entry ]\n        [ into the online RFC archives by Thomas Nielsen 4/97 ]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                [Page 1]\n\f\n"
+}

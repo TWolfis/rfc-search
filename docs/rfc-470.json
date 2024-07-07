@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "470",
+  "howpublished": "RFC 470",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0470",
+  "url": "https://www.rfc-editor.org/info/rfc470",
+  "title": "Change in socket for TIP news facility",
+  "pagetotal": "1",
+  "year": "1973",
+  "month": "mar",
+  "body": "\n\n\n\n\n\nNetwork Working Group                                     Bob Thomas\nRequest for Comments: #470                                BBN - TENEX\nNIC #14799                                                March 13, 1973\nCategories: Socket Numbers\n\n\n                 Change in Socket for TIP News Facility\n\n\nThe Socket which supports the TIP News Facility has been changed to\nsocket 367 (Octal) at BBN-TENEX.  TIP users should be uneffected by this\nchange since the TIP program has already been changed to ICP to the new\nsocket.  Because some user TELNET programs have been implemented a\n\"news\" command, the old socket will be maintained until April 15, 1973\nto give implementers time to change to the new socket.\n\n\n\n\n\n\n\n\n\n\n       [ This RFC was put into machine readable form for entry ]\n       [ into the online RFC archives by Alex McKenzie with    ]\n       [ support from GTE, formerly BBN Corp.             9/99 ]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThomas                                                          [Page 1]\n\f\n"
+}

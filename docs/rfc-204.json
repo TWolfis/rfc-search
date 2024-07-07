@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "204",
+  "howpublished": "RFC 204",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0204",
+  "url": "https://www.rfc-editor.org/info/rfc204",
+  "title": "Sockets in use",
+  "pagetotal": "1",
+  "year": "1971",
+  "month": "aug",
+  "body": "\n\n\n\n\n\nNetwork Working Group                                   Jon Postel\nRequest for Comments: 204                               ULA-NMC\nNIC 7196                                                Comp. Sci.\nCategories A.5, C.3, D                                  5 August 71\nObsoletes: none\nRelated 196\n\n\n                             Sockets in use\n\n   I would like to collect information on the use of socket numbers\nfor \"standard\" service programs. For example Loggers (telnet servers)\nListen on socket 1. What sockets at your host are Listened to by what\nprograms?\n\n   Recently Dick Watson suggested assigning socket 5 for use by a\nmail-box protocol (RFC196). Does any one object ? Are there any\nsuggestions for a method of assigning sockets to standard programs?\nShould a subset of the socket numbers be reserved for use by future\nstandard protocols?\n\n   Please phone or mail your answers and commtents to:\n\n                        Jon Postel\n                        The SPADE Group\n                        3732 Boelter Hall\n                        Computer Science Dept.\n                        ULA, LA. CA 90024\n\n                        (213) 825 2368\n\n       [ This RFC was put into machine readable form for entry ]\n        [ into the online RFC archives by Gruss Gottfried 6/97 ]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCrocker                                                         [Page 1]\n\f\n"
+}

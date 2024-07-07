@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "148",
+  "howpublished": "RFC 148",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0148",
+  "url": "https://www.rfc-editor.org/info/rfc148",
+  "title": "Comments on RFC 123",
+  "pagetotal": "1",
+  "year": "1971",
+  "month": "may",
+  "body": "\n\n\n\n\n\nNetwork Working Group                             A. Bhushan\nRequest for Comments # 148                MIT -- Project MAC\nNIC # 6751                                        7 May 1971\nCategories: D.1\n\n\n                          Comments on RFC #123\n                          --------------------\n\n\n\n        The requirement that byte size 's' be 32-bits for\nthe initial connection imposes some severe strains on some of\nthe 36-bit machines. For example, in our PDP-10 (DMCG-\nITS) NCP, we have at present no way of sending or receiving\nexactly 32-bits of data. Data is transmitted either in\nimage mode (36-bit bytes) or in ASCII mode (8-bit characters\nwith the 8th bit as zero). Perhaps we should permit the\nserver to send more than 32-bits (say 72-bits) where the\nremaining bits could be NULL fillers. The byte size\n's' for the connection may be fixed at 8-bits.\n\n\n\n\n\n\n\n\n  [ This RFC was put into machine readable form for entry ]\n  [ into the online RFC archives by BBN Corp. under the   ]\n  [ direction of Alex McKenzie.                   12/96   ]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                [Page 1]\n\f\n"
+}

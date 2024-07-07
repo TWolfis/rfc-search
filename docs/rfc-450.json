@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "450",
+  "howpublished": "RFC 450",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0450",
+  "url": "https://www.rfc-editor.org/info/rfc450",
+  "title": "MULTICS sampling timeout change",
+  "pagetotal": "1",
+  "year": "1973",
+  "month": "feb",
+  "body": "\n\n\n\n\n\nNetwork Working Group                                   M. Padlipsky\nRequest for Comments # 450                              MIT-MULTICS\nNIC # 14134                                             February 8, 1973\n\n\n\n                    MULTICS SAMPLING TIMEOUT CHANGE\n\n\nIn response to popular demand, and in view of the fact that we've found\nan extra bit of budget, the timeout on sampling (\"anonymous\") use of\nMultics via the Net has been increased to 5 cpu minutes (from 1 cpu\nminute); coupled with various internal speedups, this change should\nallow the performance of substantive experiments in a single session.\n\n\n\n\n\n\n\n\n\n\n       [ This RFC was put into machine readable form for entry ]\n       [ into the online RFC archives by Alex McKenzie with    ]\n       [ support from GTE, formerly BBN Corp.             9/99 ]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPadlipsky                                                       [Page 1]\n\f\n"
+}

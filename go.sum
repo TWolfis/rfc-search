@@ -1,0 +1,6 @@
+github.com/TWolfis/ietfrfc v1.3.4 h1:6KWWrTEifVA6E706KPaqm00toAQwlLlvqQYGvLeXlYE=
+github.com/TWolfis/ietfrfc v1.3.4/go.mod h1:uR+ukrxKmiqTl/ygLCP7qSx5Ckji3CbZgUDPY/mYy4I=
+github.com/caltechlibrary/bibtex v0.0.8 h1:lrnuAVJqEMaSNLE9jPJ5qDWugZcisWfqjZYK43mn1Lg=
+github.com/caltechlibrary/bibtex v0.0.8/go.mod h1:hnIWUT6c+wfIWrV1UKPHU7pBLQii1ml8c5l36bc7Zb0=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=

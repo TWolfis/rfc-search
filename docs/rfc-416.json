@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "416",
+  "howpublished": "RFC 416",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0416",
+  "url": "https://www.rfc-editor.org/info/rfc416",
+  "title": "ARC System Will Be Unavailable for Use During Thanksgiving Week",
+  "pagetotal": "2",
+  "year": "1972",
+  "month": "nov",
+  "body": "\n\n\n\n\n\nNETWORK WORKING GROUP                           James C. Norton (SRI-ARC)\nRequest for Comments #416                          7-NOV-72\nNIC #12542\n\nTHE ARC SYSTEM WILL BE UNAVAILABLE FOR USE DURING THANKSGIVING WEEK\n\nThe ARC PDP-10 system will be unavailable for ARC and NIC users\nfrom Friday, November 17 (6:00 pm PST ) through Sunday, November\n26. (10:00 pm PST).  This will give our hardware team a period of\nnine days to work on equipment with a loss of only three SRI\nworking days to users (Monday, Tuesday, and Wednesday.)\n\nThis is the Network Information Center's notice to its network\nusers of the schedule.\n\n    In addition, a login message will be sent starting about 6\n    November to all users showing schedule.\n\n       It will read something like: \"THE ARC/NIC PDP-10 SYSTEM\n      WILL BE UNAVAILABLE FOR USE FROM FRIDAY NOV 17 (6:00 pm\n      PST) THRU SUNDAY NOV 26 (10:00 pm PST) FOR MAJOR HARDWARE\n      WORK AS OUTLINED IN (12542,)\".\n\nFor those who are interested, the hardware facility work to be\ndone during this period will include:\n\n   Removal of the Bryant disk, Bryant disk controller and\n   Cybernex drum-disk interference.\n\n   Moving the Tasker display system and DEC dispack (old and\n   new) equipment to their new locations.\n\n   Having Bryant people run a combination drum maintenance and\n   training session to teach ARC people how to change heads and\n   clean the drum.\n\n   Redoing the power cabling to the drum.\n\n   Putting the new signal cable in between drum and controller.\n\n   Debugging the parity checker.\n\n\n\n\n\n\n\n\n\n\n                                                                [Page 1]\n\f\n   Making a check of all main signal levels in XCORE.\n\n   Debugging the new cable from the parity checker to XCORE.\n\n   Wiring the parity bit through the Cybernex XCORE interface.\n\n   Getting any necessary power wiring done.\n\n   Building a wall for the next dispack location.\n\n\n    [ This RFC was put into machine readable form for entry ]\n    [ into the online RFC archives by BBN Corp. under the   ]\n    [ direction of Alex McKenzie.                      1/97 ]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                [Page 2]\n\f\n"
+}

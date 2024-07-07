@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "18",
+  "howpublished": "RFC 18",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0018",
+  "url": "https://www.rfc-editor.org/info/rfc18",
+  "title": "IMP-IMP and HOST-HOST Control Links",
+  "pagetotal": "1",
+  "year": "1969",
+  "month": "sep",
+  "body": "\n\n\n\n\n\nNetwork Working Group               University of California Los Angeles\nRequest for Comments: 18                                       Vint Cerf\nCategory:                                                 September 1969\n\n\n\n\nIt is suggested that link 1 be used for the HOST-HOST control link\nand link 0 be used for IMP-IMP control.\n\nThis will facilitate communication between Hosts and reduce delays\ndue to interference with IMP-IMP communications.\n\n\n\n    [This RFC has been restored to on-line status by Elmar K. Bins]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                [Page 1]\n\f\n"
+}

@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "382",
+  "howpublished": "RFC 382",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0382",
+  "url": "https://www.rfc-editor.org/info/rfc382",
+  "title": "Mathematical Software on the ARPA Network",
+  "pagetotal": "1",
+  "year": "1972",
+  "month": "aug",
+  "body": "\n\n\n\n\n\nNIC 11122                                          Lawrence McDaniel\nNWG/RFC 382                                        Center for Advanced\n                                                     Computation\n                                                   University of Illinois\n\n                                                   August 3, 1972\n\n\nMATHEMATICAL SOFTWARE ON THE ARPA NETWORK\n\nThere have been several efforts in the past few years to develop high\nquality libraries of mathematical and statistical subroutines.  Some\nof the projects mentioned in the literature include:\n\n1.  The Bell Laboratories numerical mathematics program library project.\n\n2.  IMSL Inc.:  IMSL Library I, mathematical-statistical computer\n    subroutines\n\n3.  The NATS (National Science Foundation,Argonne Laboratories, Stanford\n    and Texas) joint project on the Wilkinson linear algebra routines.\n\nThe ARPA Network could further enhance the desirability of such libraries\nas they would become another sharable network resource.  Although the\ndiversity of network computing no doubt requires an equally diverse set\nof mathematical software, and in spite of the fact everyone has their\nown software hangups - not to mention hardware!, it seems everyone\ncould benefit from some type of information interchange regarding mathe-\nmatical software of interest.\n\nIn particular I would welcome any information on your experiences with\nmathematical and statistical libraries, especially regarding those\nmentioned above.\n\nWe do plan on obtaining the NATS library and with the project's cooperation,\nintend to make it available on several Network IBM/360-370's and PDP-10's.\nThose interested should send me a message via NIC (ident LM) or get in\ntouch with me at (217) 333-8497.\n\n\n\n\n\n       [ This RFC was put into machine readable form for entry ]\n       [ into the online RFC archives by BBN Corp. under the   ]\n       [ direction of Alex McKenzie.                      1/97 ]\n\n\n\n\n\n                                                                [Page 1]\n\f\n"
+}

@@ -1,0 +1,14 @@
+{
+  "series": "Request for Comments",
+  "number": "43",
+  "howpublished": "RFC 43",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0043",
+  "url": "https://www.rfc-editor.org/info/rfc43",
+  "title": "Proposed Meeting",
+  "pagetotal": "2",
+  "year": "1970",
+  "month": "apr",
+  "day": "1",
+  "body": "\n\n\n\n\n\nNetwork Working Group                         A. G. Nemeth\nRequest for Comments: 43                      M.I.T. Lincoln Laboratory\n                                              8 April 1970\n\n\n                         Proposed Meeting\n\n\n      On Friday, 8 May 1970, at 9:30 AM a meeting at M.I.T. Lincoln\nLaboratory is proposed. A description of LIL (Local Interaction\nLanguage) for the TSP (Terminal Support Processor) system will be\npresented.\n\n      The purpose of the TSP system is to provide a flexible I/O\ncapability for network users. In order to achieve maximum flexibility,\nthe system is user-programmable in an interpretable language called\nLIL.\n\n      LIL has the appropriate primitives for manipulating tree\nstructures (for interactive graphics) as well as message-oriented\nI/O. The general purpose portion of the language is used to specify\nthe I/O handlers and the display structures.\n\n      A discussion of the problems of handling interactive programs\nover the ARPA network will follow.\n\n      This conference is intended as a working group and each host\nshould send as few or as many individuals as are actively\ninterested. A working document on LIL will be mailed about a week in\nadvance to interested individuals.\n\n      Anyone interested in attending and/or receiving the documents\nshould contact A. G. Nemeth (x7354) or J. Forgie (x7173) at\nM.I.T. Lincoln Labs, Lexington, Mass. 02173, (617) 862-5500.\n\n\n[This RFC was put into machine readable form for entry into the RFC\narchives by Glenn Forbes Fleming Larratt]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                     December 27, 1996\n\n\n"
+}

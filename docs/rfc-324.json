@@ -1,0 +1,14 @@
+{
+  "series": "Request for Comments",
+  "number": "324",
+  "howpublished": "RFC 324",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0324",
+  "url": "https://www.rfc-editor.org/info/rfc324",
+  "title": "RJE Protocol meeting",
+  "pagetotal": "1",
+  "year": "1972",
+  "month": "apr",
+  "day": "1",
+  "body": "\n\n\n\n\n\nNetwork Working Group                                       J. Postel\nRequest for Comments #324                                   UCLA-NMC\nNIC #9631                                                   3 April 72\nCategories:  RJE\n\n\n\n                          RJE Protocol Meeting\n\n\n     There will be a meeting to discuss Remote Job Entry (RJE) protocols\nin the ARPA Network on Friday 21 April 72.  The meeting will be held from\n9:30 a.m. to 5:00 p.m. in room 2412 of the Ackerman Student Union Build-\ning at UCLA.\n\n     Prospective attendees should contact Bryna Lang at (213) 825-2368\nto confirm their attendance.\n\n     Attendees should also be familiar with the previous work on ARPANET\nRJE protocols, in particular the reports by McKenzie (25 Feb. 72) and\nKampe (8 March 72) from the previous RJE meeting.  Note that the Data and\nFile Transfer protocols are also relevant.\n\n\n\n\n\n\n\n\n\n\n       [ This RFC was put into machine readable form for entry ]\n       [ into the online RFC archives by BBN Corp. under the   ]\n       [ direction of Alex McKenzie.                   12/96   ]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                [Page 1]\n\f\n"
+}

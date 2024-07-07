@@ -1,0 +1,14 @@
+{
+  "series": "Request for Comments",
+  "number": "496",
+  "howpublished": "RFC 496",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0496",
+  "url": "https://www.rfc-editor.org/info/rfc496",
+  "title": "TNLS quick reference card is available",
+  "pagetotal": "1",
+  "year": "1973",
+  "month": "apr",
+  "day": "1",
+  "body": "\n\n\n\n\n\nNetwork Working Group                                      Auerbach\nRFC # 496                                                  SRI-ARC\nNIC # 15496                                                April 5, 1973\n\n\n                A TNLS QUICK REFERENCE CARD IS AVAILABLE\n\n\nThis RFC announces a new TNLS Quick Reference Card.  It documents all of\nthe basic commands required for everyday TNLS usage as well as some\nspecial purpose features.  It includes TIP settings for connecting to\nSRI-ARC, basic TENEX/EXECUTIVE commands, and a complete of set of\nVIEWSPECS codes for TNLS usage.\n\n    One copy of this card will be sent to your station agent.  If you\n    would like to obtain copies for users at your site, please contact\n    Marcia Keeney (MLK) at SRI-ARC indicating the number of copies you\n    require.\n\n\n\n\n\n\n\n\n\n\n       [ This RFC was put into machine readable form for entry ]\n       [ into the online RFC archives by Alex McKenzie with    ]\n       [ support from GTE, formerly BBN Corp.             9/99 ]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAuerbach                                                        [Page 1]\n\f\n"
+}

@@ -1,0 +1,13 @@
+{
+  "series": "Request for Comments",
+  "number": "395",
+  "howpublished": "RFC 395",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0395",
+  "url": "https://www.rfc-editor.org/info/rfc395",
+  "title": "Switch Settings on IMPs and TIPs",
+  "pagetotal": "1",
+  "year": "1972",
+  "month": "oct",
+  "body": "\n\n\n\n\n\nNetwork Working Group                     John M. McQuillan\nRFC # 395                                 Bolt Beranek and Newman Inc.\nNIC # 11587                               3 October 1972\nCategories: Updates:\nObsoletes:\n\n                    SWITCH SETTINGS ON IMPS AND TIPS\n                    --------------------------------\n\nThis note provides a description of the switches on the front panel of\nIMPs and TIPs that are important to the correct operation of the\nnetwork software.  We have had some difficulty in the past when\ncertain of these switches were set incorrectly, This RFC will be\nupdated as necessary, to notify site personnel of changes to the\nsettings.\n\nA.  516 IMPs\n    --------\nThe IMP at your site is a model 516 if it has a gray cabinet and two\nrows of indicator lights on the front panel.  The correct switch\nsettings are:\n\n     1.   Sense switches 1,2,3 and 4:  OFF (DOWN)\n     2.   PFI/PFH:  PFI (UP)\n     3.   HALT INH:  OFF (DOWN)\n     4.   W.D.T.:  OFF (DOWN)\n     5.   AUTO RSTRT:  ON (UP)\n     6.   MEMORY PRTCT:  OFF (DOWN)\n\nB.  316 IMPs and TIPs\n    -----------------\nThe IMP at your site is a model 316 if it is a TIP or if it is in a\nblack cabinet and has one row of indicator lights on the front panel.\n\n     1.  Sense switches 1,2,3,4 OFF  (top half depressed)\n\nSite personnel are requested to keep a copy of this RFC near the IMP\nand to check the switch settings at their IMP.  In addition, the\nHoneywell field engineers who perform preventive maintenance have been\nrequested to use this note as a checklist.\n\n\n       [ This RFC was put into machine readable form for entry ]\n       [ into the online RFC archives by BBN Corp. under the   ]\n       [ direction of Alex McKenzie.                      1/97 ]\n\n\n\n\n\n\n                                                                [Page 1]\n\f\n"
+}

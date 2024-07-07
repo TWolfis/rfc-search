@@ -1,0 +1,14 @@
+{
+  "series": "Request for Comments",
+  "number": "132",
+  "howpublished": "RFC 132",
+  "publisher": "RFC Editor",
+  "doi": "10.17487/RFC0132",
+  "url": "https://www.rfc-editor.org/info/rfc132",
+  "title": "Typographical Error in RFC 107",
+  "pagetotal": "1",
+  "year": "1971",
+  "month": "apr",
+  "day": "1",
+  "body": "\n\n\n\n\n\nNETWORK WORKING GROUP                                           Jim White\nRequest for Comments #132                                       UCSB\nNIC #6708                                                       April 28, 1971\n\n\n\n\n\n\n                     TYPOGRAPHICAL ERROR IN RFC 107\n                     ______________________________\n\n\nOn page 5 of RFC 107, at the end of the section titled 'V.\nFlow Control', the partial sentence:\n\n     Each of these numbers is interpreted as \"the number\n     of 128ths of the current allocation\" to be returned\n     if it is in the range zero to 128...\n\nshould read:\n\n     ...if it is the range of zero to 127,...\n                                      ---\n\nThat is, return al the appropriate allocation if and\nonly if the high-order of the left-most bit of the corresponding\nfraction is 1.\n\n\n       [ This RFC was put into machine readable form for entry ]\n     [ into the online RFC archives by Mohnish Harisinganey 5/97 ]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                [Page 1]\n\f\n"
+}
